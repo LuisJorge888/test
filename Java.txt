@@ -5,4 +5,8 @@ esto es una prueba.
 
 hola esto es una prueba desde el repositorio
 
+<<<<<<< HEAD
 holi
+=======
+esto es otra prueba...
+>>>>>>> 5f61032946e686a0f0864533a817233fca24f013
